@@ -2,15 +2,7 @@
 [{
   "id": 1,
   "portfolio_name": "BlastOut 2019",
-  "desc": "Sistem pendaftaran dan pengumuman online try out",
-  "gambar": "http://bklassace.com/wp-content/uploads/2017/03/logo-besar-copyGOLD.png",
-  "link": "blastout.balairungklass.org"
-},
-{
-"id": 2,
-  "portfolio_name": "BlastOut 2019",
-  "desc": "Sistem pendaftaran dan pengumuman online try out",
-  "gambar": "http://bklassace.com/wp-content/uploads/2017/03/logo-besar-copyGOLD.png",
+  "desc": "Sistem pendaftaran dan pengumuman online try out Bklass",
   "link": "blastout.balairungklass.org"
 }]
 }
